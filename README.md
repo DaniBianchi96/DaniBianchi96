@@ -1,4 +1,4 @@
-### Olá eu sou o Daniel Bianchi desenvolvedor Back-End !!!
+### Olá eu sou o Daniel Bianchi de Oliveira !!!
 
 
 
